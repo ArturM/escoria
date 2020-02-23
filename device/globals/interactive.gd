@@ -3,7 +3,7 @@ extends Node2D
 #warning-ignore:unused_class_variable
 export var global_id = ""                                  # API property
 #warning-ignore:unused_class_variable
-export(String, FILE, ".esc") var events_path = ""          # API property
+export(String, FILE, "*.esc") var events_path = ""          # API property
 export var active = true setget set_active,get_active
 
 var event_table = {}

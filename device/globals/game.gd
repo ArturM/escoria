@@ -2,7 +2,7 @@ extends Node
 
 var player
 var mode = "default"
-export(String,FILE) var fallbacks_path = ""
+export(String, FILE, "*.esc") var fallbacks_path = ""
 export var inventory_enabled = true setget set_inventory_enabled
 var fallbacks
 var check_joystick = false
