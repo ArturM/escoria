@@ -159,4 +159,4 @@ game_highlight={
 
 [locale]
 
-translations=PoolStringArray( "res://demo/translations/general.en.translation", "res://demo/translations/general.es.translation", "res://demo/translations/general.fr.translation" )
+translations=PoolStringArray( "res://demo/translations/general.en.translation", "res://demo/translations/general.es.translation", "res://demo/translations/general.fr.translation", "res://demo/translations/general.pl.translation" )
